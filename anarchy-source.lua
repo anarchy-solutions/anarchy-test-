@@ -1,15 +1,7 @@
-__index = __index
-__index = __index
-__index = function()
- return __index
+while true do
+game:GetService("StarterGui"):SetCore("SendNotification",{
+    Title = "Anarchy V2 | Light Mode", -- Required
+    Text = "This version is made for free exploits.", -- Required
+        Duration = "5" -- Optional
+})
 end
-__index = __index
-
-
-while __index do
-  if __index == __index then
-    while __index == __index do
-      print"loaded"
-     end
-   end
- end
