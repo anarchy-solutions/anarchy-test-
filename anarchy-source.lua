@@ -1,9 +1,3 @@
-game:GetService("StarterGui"):SetCore("SendNotification",{
-    Title = "Anarchy V2 | BETA", -- Required
-    Text = "loaded", -- Required
-        Duration = "3" -- Optional
-})
-
 __index = __index
 __index = __index
 __index = function()
